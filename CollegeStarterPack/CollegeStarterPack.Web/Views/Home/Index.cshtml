@@ -1,0 +1,98 @@
+﻿@model CollegeStarterPack.Web.Models.FrontTemplateListViewModel
+
+@{
+    ViewBag.Title = "Index";
+  Layout = "~/Views/Shared/_LayoutFront.cshtml";
+
+}
+
+
+
+<section class="homepage-slider" id="home-slider">
+    <div class="flexslider">
+        <ul class="slides">
+
+          
+           @foreach(var s in Model.Sliders)
+           {
+               @Html.Partial("~/Views/Shared/SliderLinkPartial.cshtml",s);
+           }
+
+
+        </ul>
+    </div>
+</section>
+<section class="header_text">
+    We stand for top quality products.We provide a common platform for <br/>Students to buy/borrow engineering essentials on one click. Dangri, drafter at an affordable price.
+   
+</section>
+<section class="main-content">
+    <div class="row">
+        <div class="span12">
+            <div class="row">
+                <div class="span12">
+                    <h4 class="title">
+                        <span class="pull-left"><span class="text"><span class="line"> <strong>Products</strong></span></span></span>
+                        <span class="pull-right">
+                            <a class="left button" href="#myCarousel" data-slide="prev"></a><a class="right button" href="#myCarousel" data-slide="next"></a>
+                        </span>
+                    </h4>
+                    <div  >
+                        <div >
+                            <div class="active item">
+                                <ul class="thumbnails">
+
+                                   @foreach (var q in Model.Products)
+                                   {
+                                    @Html.Partial("~/Views/Shared/ProductLinkPartial.cshtml", q);
+                                   }
+
+                                </ul>
+                            </div>
+                            <div class="item">
+                               
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <br />
+            <hr />
+            <div class="row feature_box">
+                <div class="span4">
+                    <div class="service">
+                        <div class="responsive">
+                            <img src="@Url.Content("~/Content/Template/")themes/images/feature_img_2.png" alt="" />
+                            <h4>MODERN <strong>DESIGN</strong></h4>
+                            <p></p>
+                        </div>
+                    </div>
+                </div>
+                <div class="span4">
+                    <div class="service">
+                        <div class="customize">
+                            <img src="@Url.Content("~/Content/Template/")themes/images/feature_img_1.png" alt="" />
+                            <h4>FREE <strong>SHIPPING</strong></h4>
+                            <p></p>
+                        </div>
+                    </div>
+                </div>
+                <div class="span4">
+                    <div class="service">
+                        <div class="support">
+                            <img src="@Url.Content("~/Content/Template/")themes/images/feature_img_3.png" alt="" />
+                            <h4>24/7 LIVE <strong>SUPPORT</strong></h4>
+                            <p></p>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</section>
+<section class="our_client">
+   
+
+
+</section>
+

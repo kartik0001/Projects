@@ -1,0 +1,143 @@
+﻿<!DOCTYPE html>
+
+<html>
+<head>
+    
+   
+        <meta charset="utf-8">
+        <title>CollegeStarterPack</title>
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <meta name="description" content="">
+        <!--[if ie]><meta content='IE=8' http-equiv='X-UA-Compatible'/><![endif]-->
+        <!-- bootstrap -->
+       
+    <link href="~/Content/Template/bootstrap/css/bootstrap.min.css" rel="stylesheet" />
+       
+    <link href="~/Content/Template/bootstrap/css/bootstrap-responsive.min.css" rel="stylesheet" />
+
+        
+    <link href="~/Content/Template/themes/css/bootstrappage.css" rel="stylesheet" />
+
+        <!-- global styles -->
+      
+    <link href="~/Content/Template/themes/css/flexslider.css" rel="stylesheet" />
+       
+    <link href="~/Content/Template/themes/css/main.css" rel="stylesheet" />
+
+        <!-- scripts -->
+        
+    <script src="@Url.Content("~/Content/Template/")themes/js/jquery-1.7.2.min.js"></script>
+        <script src="@Url.Content("~/Content/Template/")bootstrap/js/bootstrap.min.js"></script>
+        <script src="@Url.Content("~/Content/Template/")themes/js/superfish.js"></script>
+        <script src="@Url.Content("~/Content/Template/")themes/js/jquery.scrolltotop.js"></script>
+        <!--[if lt IE 9]>
+            <script src="http://html5shim.googlecode.com/svn/trunk/html5.js"></script>
+            <script src="@Url.Content("~/Content/Template/")js/respond.min.js"></script>
+        <![endif]-->
+    </head>
+
+<body>
+
+    <div class="navbar navbar-inverse navbar-fixed-top">
+        <div class="container">
+            <div class="navbar-header">
+                <input type="button" value="Sign Up" class="navbar-toggle btn btn-primary" data-toggle="collapse" data-target=".navbar-collapse" >
+                    <span class="icon-bar"></span>
+                    <span class="icon-bar"></span>
+                    <span class="icon-bar"></span>
+                </input>
+              
+            </div>
+            <div class="navbar-collapse collapse">
+                <ul class="nav navbar-nav">
+                  
+                   
+                </ul>
+                @Html.Partial("_LoginPartial")
+            </div>
+        </div>
+    </div>
+   
+
+    <div id="top-bar" class="container">
+        <div class="row">
+            <div class="span4">
+               
+            </div>
+            <div class="span8">
+                <div class="account pull-right">
+                    <ul class="user-menu">
+                        
+                        <li>@Html.ActionLink("AboutUs", "About", "Home", null, null)</li>
+                        <li>@Html.ActionLink("Contact Us", "Contact", "Home", null, null)</li>
+                       
+                       
+                    </ul>
+                </div>
+            </div>
+        </div>
+    </div>
+    <div id="wrapper" class="container">
+        <section class="navbar main-menu">
+            <div class="navbar-inner main-menu">
+               <img src="@Url.Content("~/Content/Template/")themes/images/logo11.PNG" class="site_logo" alt="">
+                <nav id="menu" class="pull-right">
+                  
+                </nav>
+            </div>
+        </section>
+        <div>
+            @RenderBody()
+        </div>
+        <section id="footer-bar">
+            <div class="row">
+                <div class="span3">
+                    <h4>Navigation</h4>
+                    <ul class="nav">
+                        <li>@Html.ActionLink("HomePage", "Index", "Home", null, null)</li>
+                        <li>@Html.ActionLink("AboutUs", "About", "Home", null, null)</li>
+                        <li>@Html.ActionLink("Contact Us", "Contact", "Home", null, null)</li>
+                       <li>@Html.ActionLink("Login", "Login", "Account", null, null)</li>
+                    </ul>
+                </div>
+               
+                <div class="span5">
+                    <p class="logo"><img src="@Url.Content("~/Content/Template/")themes/images/logo11.PNG" class="site_logo" alt="" height="200" width="200" ></p>
+                    <p style="color:white">It will provide a common platform for students to buy/borrow engineering essentials on one click.
+ Dangri, drafter, scientific calculator, lab coat etc at an affordable price.
+</p>
+                    <br />
+                    <span class="social_icons">
+                        <a class="facebook" href="#">Facebook</a>
+                        <a class="twitter" href="#">Twitter</a>
+                        <a class="skype" href="#">Skype</a>
+                        <a class="vimeo" href="#">Vimeo</a>
+                    </span>
+                </div>
+            </div>
+        </section>
+        <section id="copyright">
+          
+        </section>
+        </div>
+        <script src="@Url.Content("~/Content/Template/")themes/js/common.js"></script>
+        <script src="@Url.Content("~/Content/Template/")themes/js/jquery.flexslider-min.js"></script>
+        <script type="text/javascript">
+            $(function () {
+                $(document).ready(function () {
+                    $('.flexslider').flexslider({
+                        animation: "fade",
+                        slideshowSpeed: 4000,
+                        animationSpeed: 600,
+                        controlNav: false,
+                        directionNav: true,
+                        controlsContainer: ".flex-container" // the container that holds the flexslider
+                    });
+                });
+            });
+        </script>
+
+    <div id="topcontrol" title="Scroll Back to Top" style="position: fixed; bottom: 12px; right: 0px; opacity: 1; cursor: pointer;">
+    <img src="@Url.Content("~/Content/Template/")themes/images/gotop.png" style="width:40px; height:40px; margin-top: 25px; margin-right: 17px;"></div>
+</body>
+</html>

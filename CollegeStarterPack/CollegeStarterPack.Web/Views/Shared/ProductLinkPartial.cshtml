@@ -1,0 +1,22 @@
+﻿@model CollegeStarterPack.Domain.Entity.Product
+
+
+<li class="span3">
+    <div class="product-box">
+        <span class="sale_tag"></span>
+        <p><img src="@Url.Content("~/Content/Template/")@Model.ImageUrl" alt="" height="200" width="200" /></p>
+        <strong><p class="title">@Model.Name</p></strong><br />
+        <p class="category" style="color:orangered">@Model.Title</p>
+        <p class="price">@Model.Price.ToString()</p>
+        @using (Html.BeginForm("AddToCart", "Cart"))
+        {
+            <div class="pull-right">
+                @Html.HiddenFor(x => x.ProductId)
+                @Html.Hidden("returnUrl", Request.Url.PathAndQuery)
+                <input type="submit" class="btn btn-success" value="Add To Cart" />
+            </div>
+        }
+           
+        
+    </div>
+</li>

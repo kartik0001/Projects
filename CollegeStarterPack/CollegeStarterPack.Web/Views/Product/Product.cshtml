@@ -1,0 +1,41 @@
+﻿@model CollegeStarterPack.Web.Models.FrontTemplateListViewModel
+
+@{
+    Layout = null;
+}
+
+<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>Product</title>
+</head>
+<body>
+    <div> 
+        <div>
+            <div class="span9">
+                <ul class="thumbnails listing-products">
+
+                    @foreach (var a in Model.Products)
+                    {
+                        @Html.Partial("~/Views/Shared/ProductLinkPartial.cshtml", a);
+                    }
+
+                </ul>
+                <hr>
+                <div class="pagination pagination-small pagination-centered">
+                    <ul>
+                        <li><a href="#">Prev</a></li>
+                        <li class="active"><a href="#">1</a></li>
+                        <li><a href="#">2</a></li>
+                        <li><a href="#">3</a></li>
+                        <li><a href="#">4</a></li>
+                        <li><a href="#">Next</a></li>
+                    </ul>
+                </div>
+            </div>
+        </div>
+    </div>
+</body>
+</html>

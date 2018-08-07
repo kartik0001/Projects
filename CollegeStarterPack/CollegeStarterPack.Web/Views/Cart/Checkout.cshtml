@@ -1,0 +1,95 @@
+﻿@model CollegeStarterPack.Domain.Entity.ShippingDetail
+
+@{
+    ViewBag.Title = "CollegeStarterPack : CheckOut";
+
+}
+
+
+<meta charset="utf-8">
+<title>CollegeStarterPack</title>
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<meta name="description" content="">
+<!--[if ie]><meta content='IE=8' http-equiv='X-UA-Compatible'/><![endif]-->
+<!-- bootstrap -->
+
+<link href="~/Content/Template/bootstrap/css/bootstrap.min.css" rel="stylesheet" />
+
+<link href="~/Content/Template/bootstrap/css/bootstrap-responsive.min.css" rel="stylesheet" />
+
+
+<link href="~/Content/Template/themes/css/bootstrappage.css" rel="stylesheet" />
+
+<!-- global styles -->
+
+<link href="~/Content/Template/themes/css/flexslider.css" rel="stylesheet" />
+
+<link href="~/Content/Template/themes/css/main.css" rel="stylesheet" />
+
+<!-- scripts -->
+
+<script src="@Url.Content("~/Content/Template/")themes/js/jquery-1.7.2.min.js"></script>
+<script src="@Url.Content("~/Content/Template/")bootstrap/js/bootstrap.min.js"></script>
+<script src="@Url.Content("~/Content/Template/")themes/js/superfish.js"></script>
+<script src="@Url.Content("~/Content/Template/")themes/js/jquery.scrolltotop.js"></script>
+<!--[if lt IE 9]>
+    <script src="http://html5shim.googlecode.com/svn/trunk/html5.js"></script>
+    <script src="@Url.Content("~/Content/Template/")js/respond.min.js"></script>
+<![endif]-->
+
+
+
+    <br />
+    <br />
+    <h2>Order Now</h2>
+    <p>Please enter your Details, For Ship your goods right away !</p>
+    @using (Html.BeginForm())
+    {
+       
+
+        <h3>Ship to</h3>
+        <div class="form-actions">
+            <label>Name:</label>
+            @Html.TextBoxFor(x => x.Name, new { @class = "form-control" })
+        </div>
+
+        <div class="form-actions">
+            <label>Address:</label>
+            @Html.TextBoxFor(x => x.Address, new { @class = "form-control" })
+        </div>
+
+        <div class="form-actions">
+            <label>Email:</label>
+            @Html.TextBoxFor(x => x.Email, new { @class = "form-control" })
+        </div>
+        <div class="form-actions">
+            <label>College:</label>
+            @Html.TextBoxFor(x => x.College, new { @class = "form-control" })
+        </div>
+        <div class="form-actions">
+            <label>MobileNo</label>
+            @Html.TextBoxFor(x => x.MobileNo, new { @class = "form-control" })
+        </div>
+
+
+        <div class="form-actions">
+            <label>Payment:</label>
+        @{ 
+            List<SelectListItem> listItems = new List<SelectListItem>();
+            listItems.Add(new SelectListItem
+            {
+                Text = "Cash On Delivery",
+                Value = "Cash On Delivery"
+            });
+        }
+            @Html.DropDownList("YourDropName", listItems, new { @class="form-control"})
+
+            </div>
+
+
+        <div class="text-center">
+            <input class="btn btn-primary" type="submit" value="Complete Order" />
+        </div>
+    }
+
+   

@@ -1,0 +1,105 @@
+﻿@model CollegeStarterPack.Web.Models.CartIndexViewModel
+
+@{
+    ViewBag.Title = "Online Cart Collection : Your Cart";
+}
+
+<meta charset="utf-8">
+<title>CollegeStarterPack</title>
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<meta name="description" content="">
+<!--[if ie]><meta content='IE=8' http-equiv='X-UA-Compatible'/><![endif]-->
+<!-- bootstrap -->
+
+<link href="~/Content/Template/bootstrap/css/bootstrap.min.css" rel="stylesheet" />
+
+<link href="~/Content/Template/bootstrap/css/bootstrap-responsive.min.css" rel="stylesheet" />
+
+
+<link href="~/Content/Template/themes/css/bootstrappage.css" rel="stylesheet" />
+
+<!-- global styles -->
+
+<link href="~/Content/Template/themes/css/flexslider.css" rel="stylesheet" />
+
+<link href="~/Content/Template/themes/css/main.css" rel="stylesheet" />
+
+<!-- scripts -->
+
+<script src="@Url.Content("~/Content/Template/")themes/js/jquery-1.7.2.min.js"></script>
+<script src="@Url.Content("~/Content/Template/")bootstrap/js/bootstrap.min.js"></script>
+<script src="@Url.Content("~/Content/Template/")themes/js/superfish.js"></script>
+<script src="@Url.Content("~/Content/Template/")themes/js/jquery.scrolltotop.js"></script>
+<!--[if lt IE 9]>
+    <script src="http://html5shim.googlecode.com/svn/trunk/html5.js"></script>
+    <script src="@Url.Content("~/Content/Template/")js/respond.min.js"></script>
+<![endif]-->
+
+<br/>
+<br/>
+
+<h2> Your Cart</h2>
+<style>
+    #cartTable td {
+        vertical-align: middle;
+    }
+</style>
+
+<table id="cartTable" class="table">
+
+
+    <thead>
+        <tr>
+            <th>Quanitity</th>
+            <th>Item</th>
+            <th class="text-right">Price</th>
+            <th class="text-right">SubTotal</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var line in Model.Cart.Lines)
+        {
+            <tr>
+                <td class="text-center"> @line.Quantity</td>
+                <td class="text-left"> @line.Product.Name</td>
+                <td class="text-right">
+                    &#8377; @line.Product.Price.ToString()
+                </td>
+                <td class="text-right">
+                    &#8377; @((line.Quantity * line.Product.Price).ToString())
+                </td>
+                <td>
+                    @using (Html.BeginForm("RemoveFromCart", "Cart"))
+                    {
+                        @Html.Hidden("ProductId", line.Product.ProductId)
+                        @Html.HiddenFor(x => x.ReturnUrl)
+                        <input type="submit" class="btn btn-sm btn-warning" value="Remove" />
+                    }
+                </td>
+            </tr>
+
+        }
+    </tbody>
+    <tfoot>
+        <tr>
+            <td colspan="3" class="text-right">Total : </td>
+            <td class="text-right">
+                &#8377; @Model.Cart.ComputeTotalValue().ToString()
+            </td>
+        </tr>
+    </tfoot>
+</table>
+<div class="text-center">
+    <a class="btn btn-primary" href="@Model.ReturnUrl">
+        Continue Shopping...
+    </a>
+
+
+    @Html.ActionLink("Checkout Now", "Checkout", null, new { @class = "btn btn-primary" })
+
+
+    
+</div>
+
+
+

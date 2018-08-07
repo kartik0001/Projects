@@ -1,0 +1,468 @@
+E:\Kartik\Project\Dynamic\CollegeStarterPack\CollegeStarterPack.Web\bin\roslyn\csc.exe
+E:\Kartik\Project\Dynamic\CollegeStarterPack\CollegeStarterPack.Web\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\Kartik\Project\Dynamic\CollegeStarterPack\CollegeStarterPack.Web\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\Kartik\Project\Dynamic\CollegeStarterPack\CollegeStarterPack.Web\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\Kartik\Project\Dynamic\CollegeStarterPack\CollegeStarterPack.Web\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\Kartik\Project\Dynamic\CollegeStarterPack\CollegeStarterPack.Web\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\Kartik\Project\Dynamic\CollegeStarterPack\CollegeStarterPack.Web\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\Kartik\Project\Dynamic\CollegeStarterPack\CollegeStarterPack.Web\bin\roslyn\System.Collections.Immutable.dll
+E:\Kartik\Project\Dynamic\CollegeStarterPack\CollegeStarterPack.Web\bin\roslyn\System.Reflection.Metadata.dll
+E:\Kartik\Project\Dynamic\CollegeStarterPack\CollegeStarterPack.Web\bin\roslyn\vbc.exe
+E:\Kartik\Project\Dynamic\CollegeStarterPack\CollegeStarterPack.Web\bin\roslyn\VBCSCompiler.exe
+E:\Kartik\Project\Dynamic\CollegeStarterPack\CollegeStarterPack.Web\bin\roslyn\VBCSCompiler.exe.config
+E:\Kartik\Project\Dynamic\CollegeStarterPack\CollegeStarterPack.Web\bin\CollegeStarterPack.Web.dll.config
+E:\Kartik\Project\Dynamic\CollegeStarterPack\CollegeStarterPack.Web\bin\CollegeStarterPack.Web.dll
+E:\Kartik\Project\Dynamic\CollegeStarterPack\CollegeStarterPack.Web\bin\CollegeStarterPack.Web.pdb
+E:\Kartik\Project\Dynamic\CollegeStarterPack\CollegeStarterPack.Web\bin\Antlr3.Runtime.dll
+E:\Kartik\Project\Dynamic\CollegeStarterPack\CollegeStarterPack.Web\bin\CollegeStarterPack.Domain.dll
+E:\Kartik\Project\Dynamic\CollegeStarterPack\CollegeStarterPack.Web\bin\EntityFramework.dll
+E:\Kartik\Project\Dynamic\CollegeStarterPack\CollegeStarterPack.Web\bin\EntityFramework.SqlServer.dll
+E:\Kartik\Project\Dynamic\CollegeStarterPack\CollegeStarterPack.Web\bin\Microsoft.AspNet.Identity.Core.dll
+E:\Kartik\Project\Dynamic\CollegeStarterPack\CollegeStarterPack.Web\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+E:\Kartik\Project\Dynamic\CollegeStarterPack\CollegeStarterPack.Web\bin\Microsoft.AspNet.Identity.Owin.dll
+E:\Kartik\Project\Dynamic\CollegeStarterPack\CollegeStarterPack.Web\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\Kartik\Project\Dynamic\CollegeStarterPack\CollegeStarterPack.Web\bin\Microsoft.Owin.dll
+E:\Kartik\Project\Dynamic\CollegeStarterPack\CollegeStarterPack.Web\bin\Microsoft.Owin.Host.SystemWeb.dll
+E:\Kartik\Project\Dynamic\CollegeStarterPack\CollegeStarterPack.Web\bin\Microsoft.Owin.Security.Cookies.dll
+E:\Kartik\Project\Dynamic\CollegeStarterPack\CollegeStarterPack.Web\bin\Microsoft.Owin.Security.dll
+E:\Kartik\Project\Dynamic\CollegeStarterPack\CollegeStarterPack.Web\bin\Microsoft.Owin.Security.Facebook.dll
+E:\Kartik\Project\Dynamic\CollegeStarterPack\CollegeStarterPack.Web\bin\Microsoft.Owin.Security.Google.dll
+E:\Kartik\Project\Dynamic\CollegeStarterPack\CollegeStarterPack.Web\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+E:\Kartik\Project\Dynamic\CollegeStarterPack\CollegeStarterPack.Web\bin\Microsoft.Owin.Security.OAuth.dll
+E:\Kartik\Project\Dynamic\CollegeStarterPack\CollegeStarterPack.Web\bin\Microsoft.Owin.Security.Twitter.dll
+E:\Kartik\Project\Dynamic\CollegeStarterPack\CollegeStarterPack.Web\bin\Microsoft.Web.Infrastructure.dll
+E:\Kartik\Project\Dynamic\CollegeStarterPack\CollegeStarterPack.Web\bin\Newtonsoft.Json.dll
+E:\Kartik\Project\Dynamic\CollegeStarterPack\CollegeStarterPack.Web\bin\Ninject.dll
+E:\Kartik\Project\Dynamic\CollegeStarterPack\CollegeStarterPack.Web\bin\Ninject.Web.Common.dll
+E:\Kartik\Project\Dynamic\CollegeStarterPack\CollegeStarterPack.Web\bin\Ninject.Web.Mvc.dll
+E:\Kartik\Project\Dynamic\CollegeStarterPack\CollegeStarterPack.Web\bin\Owin.dll
+E:\Kartik\Project\Dynamic\CollegeStarterPack\CollegeStarterPack.Web\bin\System.Web.Helpers.dll
+E:\Kartik\Project\Dynamic\CollegeStarterPack\CollegeStarterPack.Web\bin\System.Web.Mvc.dll
+E:\Kartik\Project\Dynamic\CollegeStarterPack\CollegeStarterPack.Web\bin\System.Web.Optimization.dll
+E:\Kartik\Project\Dynamic\CollegeStarterPack\CollegeStarterPack.Web\bin\System.Web.Razor.dll
+E:\Kartik\Project\Dynamic\CollegeStarterPack\CollegeStarterPack.Web\bin\System.Web.WebPages.Deployment.dll
+E:\Kartik\Project\Dynamic\CollegeStarterPack\CollegeStarterPack.Web\bin\System.Web.WebPages.dll
+E:\Kartik\Project\Dynamic\CollegeStarterPack\CollegeStarterPack.Web\bin\System.Web.WebPages.Razor.dll
+E:\Kartik\Project\Dynamic\CollegeStarterPack\CollegeStarterPack.Web\bin\WebActivatorEx.dll
+E:\Kartik\Project\Dynamic\CollegeStarterPack\CollegeStarterPack.Web\bin\WebGrease.dll
+E:\Kartik\Project\Dynamic\CollegeStarterPack\CollegeStarterPack.Web\bin\CollegeStarterPack.Domain.pdb
+E:\Kartik\Project\Dynamic\CollegeStarterPack\CollegeStarterPack.Web\bin\EntityFramework.xml
+E:\Kartik\Project\Dynamic\CollegeStarterPack\CollegeStarterPack.Web\bin\EntityFramework.SqlServer.xml
+E:\Kartik\Project\Dynamic\CollegeStarterPack\CollegeStarterPack.Web\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\Kartik\Project\Dynamic\CollegeStarterPack\CollegeStarterPack.Web\bin\Ninject.xml
+E:\Kartik\Project\Dynamic\CollegeStarterPack\CollegeStarterPack.Web\bin\Ninject.Web.Common.xml
+E:\Kartik\Project\Dynamic\CollegeStarterPack\CollegeStarterPack.Web\bin\Ninject.Web.Mvc.xml
+E:\Kartik\Project\Dynamic\CollegeStarterPack\CollegeStarterPack.Web\bin\System.Web.Helpers.xml
+E:\Kartik\Project\Dynamic\CollegeStarterPack\CollegeStarterPack.Web\bin\System.Web.Mvc.xml
+E:\Kartik\Project\Dynamic\CollegeStarterPack\CollegeStarterPack.Web\bin\System.Web.Optimization.xml
+E:\Kartik\Project\Dynamic\CollegeStarterPack\CollegeStarterPack.Web\bin\System.Web.Razor.xml
+E:\Kartik\Project\Dynamic\CollegeStarterPack\CollegeStarterPack.Web\bin\System.Web.WebPages.xml
+E:\Kartik\Project\Dynamic\CollegeStarterPack\CollegeStarterPack.Web\bin\System.Web.WebPages.Deployment.xml
+E:\Kartik\Project\Dynamic\CollegeStarterPack\CollegeStarterPack.Web\bin\System.Web.WebPages.Razor.xml
+E:\Kartik\Project\Dynamic\CollegeStarterPack\CollegeStarterPack.Web\bin\Antlr3.Runtime.pdb
+E:\Kartik\Project\Dynamic\CollegeStarterPack\CollegeStarterPack.Web\bin\Newtonsoft.Json.xml
+E:\Kartik\Project\Dynamic\CollegeStarterPack\CollegeStarterPack.Web\bin\Microsoft.AspNet.Identity.Core.xml
+E:\Kartik\Project\Dynamic\CollegeStarterPack\CollegeStarterPack.Web\bin\Microsoft.AspNet.Identity.Owin.xml
+E:\Kartik\Project\Dynamic\CollegeStarterPack\CollegeStarterPack.Web\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+E:\Kartik\Project\Dynamic\CollegeStarterPack\CollegeStarterPack.Web\bin\Microsoft.Owin.xml
+E:\Kartik\Project\Dynamic\CollegeStarterPack\CollegeStarterPack.Web\bin\Microsoft.Owin.Host.SystemWeb.xml
+E:\Kartik\Project\Dynamic\CollegeStarterPack\CollegeStarterPack.Web\bin\Microsoft.Owin.Security.xml
+E:\Kartik\Project\Dynamic\CollegeStarterPack\CollegeStarterPack.Web\bin\Microsoft.Owin.Security.Facebook.xml
+E:\Kartik\Project\Dynamic\CollegeStarterPack\CollegeStarterPack.Web\bin\Microsoft.Owin.Security.Cookies.xml
+E:\Kartik\Project\Dynamic\CollegeStarterPack\CollegeStarterPack.Web\bin\Microsoft.Owin.Security.OAuth.xml
+E:\Kartik\Project\Dynamic\CollegeStarterPack\CollegeStarterPack.Web\bin\Microsoft.Owin.Security.Google.xml
+E:\Kartik\Project\Dynamic\CollegeStarterPack\CollegeStarterPack.Web\bin\Microsoft.Owin.Security.Twitter.xml
+E:\Kartik\Project\Dynamic\CollegeStarterPack\CollegeStarterPack.Web\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+E:\Kartik\Project\Dynamic\CollegeStarterPack\CollegeStarterPack.Web\obj\Debug\CollegeStarterPack.Web.csprojResolveAssemblyReference.cache
+E:\Kartik\Project\Dynamic\CollegeStarterPack\CollegeStarterPack.Web\obj\Debug\CollegeStarterPack.Web.dll
+E:\Kartik\Project\Dynamic\CollegeStarterPack\CollegeStarterPack.Web\obj\Debug\CollegeStarterPack.Web.pdb
+D:\BackUp\CollegeStarterPack\CollegeStarterPack.Web\bin\roslyn\csc.exe
+D:\BackUp\CollegeStarterPack\CollegeStarterPack.Web\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\BackUp\CollegeStarterPack\CollegeStarterPack.Web\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\BackUp\CollegeStarterPack\CollegeStarterPack.Web\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\BackUp\CollegeStarterPack\CollegeStarterPack.Web\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\BackUp\CollegeStarterPack\CollegeStarterPack.Web\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\BackUp\CollegeStarterPack\CollegeStarterPack.Web\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\BackUp\CollegeStarterPack\CollegeStarterPack.Web\bin\roslyn\System.Collections.Immutable.dll
+D:\BackUp\CollegeStarterPack\CollegeStarterPack.Web\bin\roslyn\System.Reflection.Metadata.dll
+D:\BackUp\CollegeStarterPack\CollegeStarterPack.Web\bin\roslyn\vbc.exe
+D:\BackUp\CollegeStarterPack\CollegeStarterPack.Web\bin\roslyn\VBCSCompiler.exe
+D:\BackUp\CollegeStarterPack\CollegeStarterPack.Web\bin\roslyn\VBCSCompiler.exe.config
+D:\BackUp\CollegeStarterPack\CollegeStarterPack.Web\bin\CollegeStarterPack.Web.dll.config
+D:\BackUp\CollegeStarterPack\CollegeStarterPack.Web\bin\CollegeStarterPack.Web.dll
+D:\BackUp\CollegeStarterPack\CollegeStarterPack.Web\bin\CollegeStarterPack.Web.pdb
+D:\BackUp\CollegeStarterPack\CollegeStarterPack.Web\bin\Antlr3.Runtime.dll
+D:\BackUp\CollegeStarterPack\CollegeStarterPack.Web\bin\CollegeStarterPack.Domain.dll
+D:\BackUp\CollegeStarterPack\CollegeStarterPack.Web\bin\EntityFramework.dll
+D:\BackUp\CollegeStarterPack\CollegeStarterPack.Web\bin\EntityFramework.SqlServer.dll
+D:\BackUp\CollegeStarterPack\CollegeStarterPack.Web\bin\Microsoft.AspNet.Identity.Core.dll
+D:\BackUp\CollegeStarterPack\CollegeStarterPack.Web\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\BackUp\CollegeStarterPack\CollegeStarterPack.Web\bin\Microsoft.AspNet.Identity.Owin.dll
+D:\BackUp\CollegeStarterPack\CollegeStarterPack.Web\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\BackUp\CollegeStarterPack\CollegeStarterPack.Web\bin\Microsoft.Owin.dll
+D:\BackUp\CollegeStarterPack\CollegeStarterPack.Web\bin\Microsoft.Owin.Host.SystemWeb.dll
+D:\BackUp\CollegeStarterPack\CollegeStarterPack.Web\bin\Microsoft.Owin.Security.Cookies.dll
+D:\BackUp\CollegeStarterPack\CollegeStarterPack.Web\bin\Microsoft.Owin.Security.dll
+D:\BackUp\CollegeStarterPack\CollegeStarterPack.Web\bin\Microsoft.Owin.Security.Facebook.dll
+D:\BackUp\CollegeStarterPack\CollegeStarterPack.Web\bin\Microsoft.Owin.Security.Google.dll
+D:\BackUp\CollegeStarterPack\CollegeStarterPack.Web\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+D:\BackUp\CollegeStarterPack\CollegeStarterPack.Web\bin\Microsoft.Owin.Security.OAuth.dll
+D:\BackUp\CollegeStarterPack\CollegeStarterPack.Web\bin\Microsoft.Owin.Security.Twitter.dll
+D:\BackUp\CollegeStarterPack\CollegeStarterPack.Web\bin\Microsoft.Web.Infrastructure.dll
+D:\BackUp\CollegeStarterPack\CollegeStarterPack.Web\bin\Newtonsoft.Json.dll
+D:\BackUp\CollegeStarterPack\CollegeStarterPack.Web\bin\Ninject.dll
+D:\BackUp\CollegeStarterPack\CollegeStarterPack.Web\bin\Ninject.Web.Common.dll
+D:\BackUp\CollegeStarterPack\CollegeStarterPack.Web\bin\Ninject.Web.Mvc.dll
+D:\BackUp\CollegeStarterPack\CollegeStarterPack.Web\bin\Owin.dll
+D:\BackUp\CollegeStarterPack\CollegeStarterPack.Web\bin\System.Web.Helpers.dll
+D:\BackUp\CollegeStarterPack\CollegeStarterPack.Web\bin\System.Web.Mvc.dll
+D:\BackUp\CollegeStarterPack\CollegeStarterPack.Web\bin\System.Web.Optimization.dll
+D:\BackUp\CollegeStarterPack\CollegeStarterPack.Web\bin\System.Web.Razor.dll
+D:\BackUp\CollegeStarterPack\CollegeStarterPack.Web\bin\System.Web.WebPages.Deployment.dll
+D:\BackUp\CollegeStarterPack\CollegeStarterPack.Web\bin\System.Web.WebPages.dll
+D:\BackUp\CollegeStarterPack\CollegeStarterPack.Web\bin\System.Web.WebPages.Razor.dll
+D:\BackUp\CollegeStarterPack\CollegeStarterPack.Web\bin\WebActivatorEx.dll
+D:\BackUp\CollegeStarterPack\CollegeStarterPack.Web\bin\WebGrease.dll
+D:\BackUp\CollegeStarterPack\CollegeStarterPack.Web\bin\CollegeStarterPack.Domain.pdb
+D:\BackUp\CollegeStarterPack\CollegeStarterPack.Web\bin\EntityFramework.xml
+D:\BackUp\CollegeStarterPack\CollegeStarterPack.Web\bin\EntityFramework.SqlServer.xml
+D:\BackUp\CollegeStarterPack\CollegeStarterPack.Web\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\BackUp\CollegeStarterPack\CollegeStarterPack.Web\bin\Ninject.xml
+D:\BackUp\CollegeStarterPack\CollegeStarterPack.Web\bin\Ninject.Web.Common.xml
+D:\BackUp\CollegeStarterPack\CollegeStarterPack.Web\bin\Ninject.Web.Mvc.xml
+D:\BackUp\CollegeStarterPack\CollegeStarterPack.Web\bin\System.Web.Helpers.xml
+D:\BackUp\CollegeStarterPack\CollegeStarterPack.Web\bin\System.Web.Mvc.xml
+D:\BackUp\CollegeStarterPack\CollegeStarterPack.Web\bin\System.Web.Optimization.xml
+D:\BackUp\CollegeStarterPack\CollegeStarterPack.Web\bin\System.Web.Razor.xml
+D:\BackUp\CollegeStarterPack\CollegeStarterPack.Web\bin\System.Web.WebPages.xml
+D:\BackUp\CollegeStarterPack\CollegeStarterPack.Web\bin\System.Web.WebPages.Deployment.xml
+D:\BackUp\CollegeStarterPack\CollegeStarterPack.Web\bin\System.Web.WebPages.Razor.xml
+D:\BackUp\CollegeStarterPack\CollegeStarterPack.Web\bin\Antlr3.Runtime.pdb
+D:\BackUp\CollegeStarterPack\CollegeStarterPack.Web\bin\Newtonsoft.Json.xml
+D:\BackUp\CollegeStarterPack\CollegeStarterPack.Web\bin\Microsoft.AspNet.Identity.Core.xml
+D:\BackUp\CollegeStarterPack\CollegeStarterPack.Web\bin\Microsoft.AspNet.Identity.Owin.xml
+D:\BackUp\CollegeStarterPack\CollegeStarterPack.Web\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\BackUp\CollegeStarterPack\CollegeStarterPack.Web\bin\Microsoft.Owin.xml
+D:\BackUp\CollegeStarterPack\CollegeStarterPack.Web\bin\Microsoft.Owin.Host.SystemWeb.xml
+D:\BackUp\CollegeStarterPack\CollegeStarterPack.Web\bin\Microsoft.Owin.Security.xml
+D:\BackUp\CollegeStarterPack\CollegeStarterPack.Web\bin\Microsoft.Owin.Security.Facebook.xml
+D:\BackUp\CollegeStarterPack\CollegeStarterPack.Web\bin\Microsoft.Owin.Security.Cookies.xml
+D:\BackUp\CollegeStarterPack\CollegeStarterPack.Web\bin\Microsoft.Owin.Security.OAuth.xml
+D:\BackUp\CollegeStarterPack\CollegeStarterPack.Web\bin\Microsoft.Owin.Security.Google.xml
+D:\BackUp\CollegeStarterPack\CollegeStarterPack.Web\bin\Microsoft.Owin.Security.Twitter.xml
+D:\BackUp\CollegeStarterPack\CollegeStarterPack.Web\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+D:\BackUp\CollegeStarterPack\CollegeStarterPack.Web\obj\Debug\CollegeStarterPack.Web.csprojResolveAssemblyReference.cache
+D:\BackUp\CollegeStarterPack\CollegeStarterPack.Web\obj\Debug\CollegeStarterPack.Web.dll
+D:\BackUp\CollegeStarterPack\CollegeStarterPack.Web\obj\Debug\CollegeStarterPack.Web.pdb
+C:\BackUp\CollegeStarterPack\CollegeStarterPack.Web\bin\roslyn\csc.exe
+C:\BackUp\CollegeStarterPack\CollegeStarterPack.Web\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\BackUp\CollegeStarterPack\CollegeStarterPack.Web\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\BackUp\CollegeStarterPack\CollegeStarterPack.Web\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\BackUp\CollegeStarterPack\CollegeStarterPack.Web\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\BackUp\CollegeStarterPack\CollegeStarterPack.Web\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\BackUp\CollegeStarterPack\CollegeStarterPack.Web\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\BackUp\CollegeStarterPack\CollegeStarterPack.Web\bin\roslyn\System.Collections.Immutable.dll
+C:\BackUp\CollegeStarterPack\CollegeStarterPack.Web\bin\roslyn\System.Reflection.Metadata.dll
+C:\BackUp\CollegeStarterPack\CollegeStarterPack.Web\bin\roslyn\vbc.exe
+C:\BackUp\CollegeStarterPack\CollegeStarterPack.Web\bin\roslyn\VBCSCompiler.exe
+C:\BackUp\CollegeStarterPack\CollegeStarterPack.Web\bin\roslyn\VBCSCompiler.exe.config
+C:\BackUp\CollegeStarterPack\CollegeStarterPack.Web\bin\CollegeStarterPack.Web.dll.config
+C:\BackUp\CollegeStarterPack\CollegeStarterPack.Web\bin\CollegeStarterPack.Web.dll
+C:\BackUp\CollegeStarterPack\CollegeStarterPack.Web\bin\CollegeStarterPack.Web.pdb
+C:\BackUp\CollegeStarterPack\CollegeStarterPack.Web\bin\Antlr3.Runtime.dll
+C:\BackUp\CollegeStarterPack\CollegeStarterPack.Web\bin\CollegeStarterPack.Domain.dll
+C:\BackUp\CollegeStarterPack\CollegeStarterPack.Web\bin\EntityFramework.dll
+C:\BackUp\CollegeStarterPack\CollegeStarterPack.Web\bin\EntityFramework.SqlServer.dll
+C:\BackUp\CollegeStarterPack\CollegeStarterPack.Web\bin\Microsoft.AspNet.Identity.Core.dll
+C:\BackUp\CollegeStarterPack\CollegeStarterPack.Web\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\BackUp\CollegeStarterPack\CollegeStarterPack.Web\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\BackUp\CollegeStarterPack\CollegeStarterPack.Web\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\BackUp\CollegeStarterPack\CollegeStarterPack.Web\bin\Microsoft.Owin.dll
+C:\BackUp\CollegeStarterPack\CollegeStarterPack.Web\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\BackUp\CollegeStarterPack\CollegeStarterPack.Web\bin\Microsoft.Owin.Security.Cookies.dll
+C:\BackUp\CollegeStarterPack\CollegeStarterPack.Web\bin\Microsoft.Owin.Security.dll
+C:\BackUp\CollegeStarterPack\CollegeStarterPack.Web\bin\Microsoft.Owin.Security.Facebook.dll
+C:\BackUp\CollegeStarterPack\CollegeStarterPack.Web\bin\Microsoft.Owin.Security.Google.dll
+C:\BackUp\CollegeStarterPack\CollegeStarterPack.Web\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\BackUp\CollegeStarterPack\CollegeStarterPack.Web\bin\Microsoft.Owin.Security.OAuth.dll
+C:\BackUp\CollegeStarterPack\CollegeStarterPack.Web\bin\Microsoft.Owin.Security.Twitter.dll
+C:\BackUp\CollegeStarterPack\CollegeStarterPack.Web\bin\Microsoft.Web.Infrastructure.dll
+C:\BackUp\CollegeStarterPack\CollegeStarterPack.Web\bin\Newtonsoft.Json.dll
+C:\BackUp\CollegeStarterPack\CollegeStarterPack.Web\bin\Ninject.dll
+C:\BackUp\CollegeStarterPack\CollegeStarterPack.Web\bin\Ninject.Web.Common.dll
+C:\BackUp\CollegeStarterPack\CollegeStarterPack.Web\bin\Ninject.Web.Mvc.dll
+C:\BackUp\CollegeStarterPack\CollegeStarterPack.Web\bin\Owin.dll
+C:\BackUp\CollegeStarterPack\CollegeStarterPack.Web\bin\System.Web.Helpers.dll
+C:\BackUp\CollegeStarterPack\CollegeStarterPack.Web\bin\System.Web.Mvc.dll
+C:\BackUp\CollegeStarterPack\CollegeStarterPack.Web\bin\System.Web.Optimization.dll
+C:\BackUp\CollegeStarterPack\CollegeStarterPack.Web\bin\System.Web.Razor.dll
+C:\BackUp\CollegeStarterPack\CollegeStarterPack.Web\bin\System.Web.WebPages.Deployment.dll
+C:\BackUp\CollegeStarterPack\CollegeStarterPack.Web\bin\System.Web.WebPages.dll
+C:\BackUp\CollegeStarterPack\CollegeStarterPack.Web\bin\System.Web.WebPages.Razor.dll
+C:\BackUp\CollegeStarterPack\CollegeStarterPack.Web\bin\WebActivatorEx.dll
+C:\BackUp\CollegeStarterPack\CollegeStarterPack.Web\bin\WebGrease.dll
+C:\BackUp\CollegeStarterPack\CollegeStarterPack.Web\bin\CollegeStarterPack.Domain.pdb
+C:\BackUp\CollegeStarterPack\CollegeStarterPack.Web\bin\EntityFramework.xml
+C:\BackUp\CollegeStarterPack\CollegeStarterPack.Web\bin\EntityFramework.SqlServer.xml
+C:\BackUp\CollegeStarterPack\CollegeStarterPack.Web\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\BackUp\CollegeStarterPack\CollegeStarterPack.Web\bin\Ninject.xml
+C:\BackUp\CollegeStarterPack\CollegeStarterPack.Web\bin\Ninject.Web.Common.xml
+C:\BackUp\CollegeStarterPack\CollegeStarterPack.Web\bin\Ninject.Web.Mvc.xml
+C:\BackUp\CollegeStarterPack\CollegeStarterPack.Web\bin\System.Web.Helpers.xml
+C:\BackUp\CollegeStarterPack\CollegeStarterPack.Web\bin\System.Web.Mvc.xml
+C:\BackUp\CollegeStarterPack\CollegeStarterPack.Web\bin\System.Web.Optimization.xml
+C:\BackUp\CollegeStarterPack\CollegeStarterPack.Web\bin\System.Web.Razor.xml
+C:\BackUp\CollegeStarterPack\CollegeStarterPack.Web\bin\System.Web.WebPages.xml
+C:\BackUp\CollegeStarterPack\CollegeStarterPack.Web\bin\System.Web.WebPages.Deployment.xml
+C:\BackUp\CollegeStarterPack\CollegeStarterPack.Web\bin\System.Web.WebPages.Razor.xml
+C:\BackUp\CollegeStarterPack\CollegeStarterPack.Web\bin\Antlr3.Runtime.pdb
+C:\BackUp\CollegeStarterPack\CollegeStarterPack.Web\bin\Newtonsoft.Json.xml
+C:\BackUp\CollegeStarterPack\CollegeStarterPack.Web\bin\Microsoft.AspNet.Identity.Core.xml
+C:\BackUp\CollegeStarterPack\CollegeStarterPack.Web\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\BackUp\CollegeStarterPack\CollegeStarterPack.Web\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\BackUp\CollegeStarterPack\CollegeStarterPack.Web\bin\Microsoft.Owin.xml
+C:\BackUp\CollegeStarterPack\CollegeStarterPack.Web\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\BackUp\CollegeStarterPack\CollegeStarterPack.Web\bin\Microsoft.Owin.Security.xml
+C:\BackUp\CollegeStarterPack\CollegeStarterPack.Web\bin\Microsoft.Owin.Security.Facebook.xml
+C:\BackUp\CollegeStarterPack\CollegeStarterPack.Web\bin\Microsoft.Owin.Security.Cookies.xml
+C:\BackUp\CollegeStarterPack\CollegeStarterPack.Web\bin\Microsoft.Owin.Security.OAuth.xml
+C:\BackUp\CollegeStarterPack\CollegeStarterPack.Web\bin\Microsoft.Owin.Security.Google.xml
+C:\BackUp\CollegeStarterPack\CollegeStarterPack.Web\bin\Microsoft.Owin.Security.Twitter.xml
+C:\BackUp\CollegeStarterPack\CollegeStarterPack.Web\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\BackUp\CollegeStarterPack\CollegeStarterPack.Web\obj\Debug\CollegeStarterPack.Web.csprojResolveAssemblyReference.cache
+C:\BackUp\CollegeStarterPack\CollegeStarterPack.Web\obj\Debug\CollegeStarterPack.Web.dll
+C:\BackUp\CollegeStarterPack\CollegeStarterPack.Web\obj\Debug\CollegeStarterPack.Web.pdb
+D:\Project\After UserResgistration\CollegeStarterPack\CollegeStarterPack.Web\bin\roslyn\csc.exe
+D:\Project\After UserResgistration\CollegeStarterPack\CollegeStarterPack.Web\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Project\After UserResgistration\CollegeStarterPack\CollegeStarterPack.Web\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Project\After UserResgistration\CollegeStarterPack\CollegeStarterPack.Web\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Project\After UserResgistration\CollegeStarterPack\CollegeStarterPack.Web\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Project\After UserResgistration\CollegeStarterPack\CollegeStarterPack.Web\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Project\After UserResgistration\CollegeStarterPack\CollegeStarterPack.Web\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Project\After UserResgistration\CollegeStarterPack\CollegeStarterPack.Web\bin\roslyn\System.Collections.Immutable.dll
+D:\Project\After UserResgistration\CollegeStarterPack\CollegeStarterPack.Web\bin\roslyn\System.Reflection.Metadata.dll
+D:\Project\After UserResgistration\CollegeStarterPack\CollegeStarterPack.Web\bin\roslyn\vbc.exe
+D:\Project\After UserResgistration\CollegeStarterPack\CollegeStarterPack.Web\bin\roslyn\VBCSCompiler.exe
+D:\Project\After UserResgistration\CollegeStarterPack\CollegeStarterPack.Web\bin\roslyn\VBCSCompiler.exe.config
+D:\Project\After UserResgistration\CollegeStarterPack\CollegeStarterPack.Web\bin\CollegeStarterPack.Web.dll.config
+D:\Project\After UserResgistration\CollegeStarterPack\CollegeStarterPack.Web\bin\CollegeStarterPack.Web.dll
+D:\Project\After UserResgistration\CollegeStarterPack\CollegeStarterPack.Web\bin\CollegeStarterPack.Web.pdb
+D:\Project\After UserResgistration\CollegeStarterPack\CollegeStarterPack.Web\bin\Antlr3.Runtime.dll
+D:\Project\After UserResgistration\CollegeStarterPack\CollegeStarterPack.Web\bin\CollegeStarterPack.Domain.dll
+D:\Project\After UserResgistration\CollegeStarterPack\CollegeStarterPack.Web\bin\EntityFramework.dll
+D:\Project\After UserResgistration\CollegeStarterPack\CollegeStarterPack.Web\bin\EntityFramework.SqlServer.dll
+D:\Project\After UserResgistration\CollegeStarterPack\CollegeStarterPack.Web\bin\Microsoft.AspNet.Identity.Core.dll
+D:\Project\After UserResgistration\CollegeStarterPack\CollegeStarterPack.Web\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\Project\After UserResgistration\CollegeStarterPack\CollegeStarterPack.Web\bin\Microsoft.AspNet.Identity.Owin.dll
+D:\Project\After UserResgistration\CollegeStarterPack\CollegeStarterPack.Web\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Project\After UserResgistration\CollegeStarterPack\CollegeStarterPack.Web\bin\Microsoft.Owin.dll
+D:\Project\After UserResgistration\CollegeStarterPack\CollegeStarterPack.Web\bin\Microsoft.Owin.Host.SystemWeb.dll
+D:\Project\After UserResgistration\CollegeStarterPack\CollegeStarterPack.Web\bin\Microsoft.Owin.Security.Cookies.dll
+D:\Project\After UserResgistration\CollegeStarterPack\CollegeStarterPack.Web\bin\Microsoft.Owin.Security.dll
+D:\Project\After UserResgistration\CollegeStarterPack\CollegeStarterPack.Web\bin\Microsoft.Owin.Security.Facebook.dll
+D:\Project\After UserResgistration\CollegeStarterPack\CollegeStarterPack.Web\bin\Microsoft.Owin.Security.Google.dll
+D:\Project\After UserResgistration\CollegeStarterPack\CollegeStarterPack.Web\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+D:\Project\After UserResgistration\CollegeStarterPack\CollegeStarterPack.Web\bin\Microsoft.Owin.Security.OAuth.dll
+D:\Project\After UserResgistration\CollegeStarterPack\CollegeStarterPack.Web\bin\Microsoft.Owin.Security.Twitter.dll
+D:\Project\After UserResgistration\CollegeStarterPack\CollegeStarterPack.Web\bin\Microsoft.Web.Infrastructure.dll
+D:\Project\After UserResgistration\CollegeStarterPack\CollegeStarterPack.Web\bin\Newtonsoft.Json.dll
+D:\Project\After UserResgistration\CollegeStarterPack\CollegeStarterPack.Web\bin\Ninject.dll
+D:\Project\After UserResgistration\CollegeStarterPack\CollegeStarterPack.Web\bin\Ninject.Web.Common.dll
+D:\Project\After UserResgistration\CollegeStarterPack\CollegeStarterPack.Web\bin\Ninject.Web.Mvc.dll
+D:\Project\After UserResgistration\CollegeStarterPack\CollegeStarterPack.Web\bin\Owin.dll
+D:\Project\After UserResgistration\CollegeStarterPack\CollegeStarterPack.Web\bin\System.Web.Helpers.dll
+D:\Project\After UserResgistration\CollegeStarterPack\CollegeStarterPack.Web\bin\System.Web.Mvc.dll
+D:\Project\After UserResgistration\CollegeStarterPack\CollegeStarterPack.Web\bin\System.Web.Optimization.dll
+D:\Project\After UserResgistration\CollegeStarterPack\CollegeStarterPack.Web\bin\System.Web.Razor.dll
+D:\Project\After UserResgistration\CollegeStarterPack\CollegeStarterPack.Web\bin\System.Web.WebPages.Deployment.dll
+D:\Project\After UserResgistration\CollegeStarterPack\CollegeStarterPack.Web\bin\System.Web.WebPages.dll
+D:\Project\After UserResgistration\CollegeStarterPack\CollegeStarterPack.Web\bin\System.Web.WebPages.Razor.dll
+D:\Project\After UserResgistration\CollegeStarterPack\CollegeStarterPack.Web\bin\WebActivatorEx.dll
+D:\Project\After UserResgistration\CollegeStarterPack\CollegeStarterPack.Web\bin\WebGrease.dll
+D:\Project\After UserResgistration\CollegeStarterPack\CollegeStarterPack.Web\bin\CollegeStarterPack.Domain.pdb
+D:\Project\After UserResgistration\CollegeStarterPack\CollegeStarterPack.Web\bin\EntityFramework.xml
+D:\Project\After UserResgistration\CollegeStarterPack\CollegeStarterPack.Web\bin\EntityFramework.SqlServer.xml
+D:\Project\After UserResgistration\CollegeStarterPack\CollegeStarterPack.Web\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Project\After UserResgistration\CollegeStarterPack\CollegeStarterPack.Web\bin\Ninject.xml
+D:\Project\After UserResgistration\CollegeStarterPack\CollegeStarterPack.Web\bin\Ninject.Web.Common.xml
+D:\Project\After UserResgistration\CollegeStarterPack\CollegeStarterPack.Web\bin\Ninject.Web.Mvc.xml
+D:\Project\After UserResgistration\CollegeStarterPack\CollegeStarterPack.Web\bin\System.Web.Helpers.xml
+D:\Project\After UserResgistration\CollegeStarterPack\CollegeStarterPack.Web\bin\System.Web.Mvc.xml
+D:\Project\After UserResgistration\CollegeStarterPack\CollegeStarterPack.Web\bin\System.Web.Optimization.xml
+D:\Project\After UserResgistration\CollegeStarterPack\CollegeStarterPack.Web\bin\System.Web.Razor.xml
+D:\Project\After UserResgistration\CollegeStarterPack\CollegeStarterPack.Web\bin\System.Web.WebPages.xml
+D:\Project\After UserResgistration\CollegeStarterPack\CollegeStarterPack.Web\bin\System.Web.WebPages.Deployment.xml
+D:\Project\After UserResgistration\CollegeStarterPack\CollegeStarterPack.Web\bin\System.Web.WebPages.Razor.xml
+D:\Project\After UserResgistration\CollegeStarterPack\CollegeStarterPack.Web\bin\Antlr3.Runtime.pdb
+D:\Project\After UserResgistration\CollegeStarterPack\CollegeStarterPack.Web\bin\Newtonsoft.Json.xml
+D:\Project\After UserResgistration\CollegeStarterPack\CollegeStarterPack.Web\bin\Microsoft.AspNet.Identity.Core.xml
+D:\Project\After UserResgistration\CollegeStarterPack\CollegeStarterPack.Web\bin\Microsoft.AspNet.Identity.Owin.xml
+D:\Project\After UserResgistration\CollegeStarterPack\CollegeStarterPack.Web\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\Project\After UserResgistration\CollegeStarterPack\CollegeStarterPack.Web\bin\Microsoft.Owin.xml
+D:\Project\After UserResgistration\CollegeStarterPack\CollegeStarterPack.Web\bin\Microsoft.Owin.Host.SystemWeb.xml
+D:\Project\After UserResgistration\CollegeStarterPack\CollegeStarterPack.Web\bin\Microsoft.Owin.Security.xml
+D:\Project\After UserResgistration\CollegeStarterPack\CollegeStarterPack.Web\bin\Microsoft.Owin.Security.Facebook.xml
+D:\Project\After UserResgistration\CollegeStarterPack\CollegeStarterPack.Web\bin\Microsoft.Owin.Security.Cookies.xml
+D:\Project\After UserResgistration\CollegeStarterPack\CollegeStarterPack.Web\bin\Microsoft.Owin.Security.OAuth.xml
+D:\Project\After UserResgistration\CollegeStarterPack\CollegeStarterPack.Web\bin\Microsoft.Owin.Security.Google.xml
+D:\Project\After UserResgistration\CollegeStarterPack\CollegeStarterPack.Web\bin\Microsoft.Owin.Security.Twitter.xml
+D:\Project\After UserResgistration\CollegeStarterPack\CollegeStarterPack.Web\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+D:\Project\After UserResgistration\CollegeStarterPack\CollegeStarterPack.Web\obj\Debug\CollegeStarterPack.Web.csprojResolveAssemblyReference.cache
+D:\Project\After UserResgistration\CollegeStarterPack\CollegeStarterPack.Web\obj\Debug\CollegeStarterPack.Web.dll
+D:\Project\After UserResgistration\CollegeStarterPack\CollegeStarterPack.Web\obj\Debug\CollegeStarterPack.Web.pdb
+C:\After UserResgistration\CollegeStarterPack\CollegeStarterPack.Web\bin\roslyn\csc.exe
+C:\After UserResgistration\CollegeStarterPack\CollegeStarterPack.Web\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\After UserResgistration\CollegeStarterPack\CollegeStarterPack.Web\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\After UserResgistration\CollegeStarterPack\CollegeStarterPack.Web\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\After UserResgistration\CollegeStarterPack\CollegeStarterPack.Web\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\After UserResgistration\CollegeStarterPack\CollegeStarterPack.Web\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\After UserResgistration\CollegeStarterPack\CollegeStarterPack.Web\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\After UserResgistration\CollegeStarterPack\CollegeStarterPack.Web\bin\roslyn\System.Collections.Immutable.dll
+C:\After UserResgistration\CollegeStarterPack\CollegeStarterPack.Web\bin\roslyn\System.Reflection.Metadata.dll
+C:\After UserResgistration\CollegeStarterPack\CollegeStarterPack.Web\bin\roslyn\vbc.exe
+C:\After UserResgistration\CollegeStarterPack\CollegeStarterPack.Web\bin\roslyn\VBCSCompiler.exe
+C:\After UserResgistration\CollegeStarterPack\CollegeStarterPack.Web\bin\roslyn\VBCSCompiler.exe.config
+C:\After UserResgistration\CollegeStarterPack\CollegeStarterPack.Web\bin\CollegeStarterPack.Web.dll.config
+C:\After UserResgistration\CollegeStarterPack\CollegeStarterPack.Web\bin\CollegeStarterPack.Web.dll
+C:\After UserResgistration\CollegeStarterPack\CollegeStarterPack.Web\bin\CollegeStarterPack.Web.pdb
+C:\After UserResgistration\CollegeStarterPack\CollegeStarterPack.Web\bin\Antlr3.Runtime.dll
+C:\After UserResgistration\CollegeStarterPack\CollegeStarterPack.Web\bin\CollegeStarterPack.Domain.dll
+C:\After UserResgistration\CollegeStarterPack\CollegeStarterPack.Web\bin\EntityFramework.dll
+C:\After UserResgistration\CollegeStarterPack\CollegeStarterPack.Web\bin\EntityFramework.SqlServer.dll
+C:\After UserResgistration\CollegeStarterPack\CollegeStarterPack.Web\bin\Microsoft.AspNet.Identity.Core.dll
+C:\After UserResgistration\CollegeStarterPack\CollegeStarterPack.Web\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\After UserResgistration\CollegeStarterPack\CollegeStarterPack.Web\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\After UserResgistration\CollegeStarterPack\CollegeStarterPack.Web\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\After UserResgistration\CollegeStarterPack\CollegeStarterPack.Web\bin\Microsoft.Owin.dll
+C:\After UserResgistration\CollegeStarterPack\CollegeStarterPack.Web\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\After UserResgistration\CollegeStarterPack\CollegeStarterPack.Web\bin\Microsoft.Owin.Security.Cookies.dll
+C:\After UserResgistration\CollegeStarterPack\CollegeStarterPack.Web\bin\Microsoft.Owin.Security.dll
+C:\After UserResgistration\CollegeStarterPack\CollegeStarterPack.Web\bin\Microsoft.Owin.Security.Facebook.dll
+C:\After UserResgistration\CollegeStarterPack\CollegeStarterPack.Web\bin\Microsoft.Owin.Security.Google.dll
+C:\After UserResgistration\CollegeStarterPack\CollegeStarterPack.Web\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\After UserResgistration\CollegeStarterPack\CollegeStarterPack.Web\bin\Microsoft.Owin.Security.OAuth.dll
+C:\After UserResgistration\CollegeStarterPack\CollegeStarterPack.Web\bin\Microsoft.Owin.Security.Twitter.dll
+C:\After UserResgistration\CollegeStarterPack\CollegeStarterPack.Web\bin\Microsoft.Web.Infrastructure.dll
+C:\After UserResgistration\CollegeStarterPack\CollegeStarterPack.Web\bin\Newtonsoft.Json.dll
+C:\After UserResgistration\CollegeStarterPack\CollegeStarterPack.Web\bin\Ninject.dll
+C:\After UserResgistration\CollegeStarterPack\CollegeStarterPack.Web\bin\Ninject.Web.Common.dll
+C:\After UserResgistration\CollegeStarterPack\CollegeStarterPack.Web\bin\Ninject.Web.Mvc.dll
+C:\After UserResgistration\CollegeStarterPack\CollegeStarterPack.Web\bin\Owin.dll
+C:\After UserResgistration\CollegeStarterPack\CollegeStarterPack.Web\bin\System.Web.Helpers.dll
+C:\After UserResgistration\CollegeStarterPack\CollegeStarterPack.Web\bin\System.Web.Mvc.dll
+C:\After UserResgistration\CollegeStarterPack\CollegeStarterPack.Web\bin\System.Web.Optimization.dll
+C:\After UserResgistration\CollegeStarterPack\CollegeStarterPack.Web\bin\System.Web.Razor.dll
+C:\After UserResgistration\CollegeStarterPack\CollegeStarterPack.Web\bin\System.Web.WebPages.Deployment.dll
+C:\After UserResgistration\CollegeStarterPack\CollegeStarterPack.Web\bin\System.Web.WebPages.dll
+C:\After UserResgistration\CollegeStarterPack\CollegeStarterPack.Web\bin\System.Web.WebPages.Razor.dll
+C:\After UserResgistration\CollegeStarterPack\CollegeStarterPack.Web\bin\WebActivatorEx.dll
+C:\After UserResgistration\CollegeStarterPack\CollegeStarterPack.Web\bin\WebGrease.dll
+C:\After UserResgistration\CollegeStarterPack\CollegeStarterPack.Web\bin\CollegeStarterPack.Domain.pdb
+C:\After UserResgistration\CollegeStarterPack\CollegeStarterPack.Web\bin\EntityFramework.xml
+C:\After UserResgistration\CollegeStarterPack\CollegeStarterPack.Web\bin\EntityFramework.SqlServer.xml
+C:\After UserResgistration\CollegeStarterPack\CollegeStarterPack.Web\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\After UserResgistration\CollegeStarterPack\CollegeStarterPack.Web\bin\Ninject.xml
+C:\After UserResgistration\CollegeStarterPack\CollegeStarterPack.Web\bin\Ninject.Web.Common.xml
+C:\After UserResgistration\CollegeStarterPack\CollegeStarterPack.Web\bin\Ninject.Web.Mvc.xml
+C:\After UserResgistration\CollegeStarterPack\CollegeStarterPack.Web\bin\System.Web.Helpers.xml
+C:\After UserResgistration\CollegeStarterPack\CollegeStarterPack.Web\bin\System.Web.Mvc.xml
+C:\After UserResgistration\CollegeStarterPack\CollegeStarterPack.Web\bin\System.Web.Optimization.xml
+C:\After UserResgistration\CollegeStarterPack\CollegeStarterPack.Web\bin\System.Web.Razor.xml
+C:\After UserResgistration\CollegeStarterPack\CollegeStarterPack.Web\bin\System.Web.WebPages.xml
+C:\After UserResgistration\CollegeStarterPack\CollegeStarterPack.Web\bin\System.Web.WebPages.Deployment.xml
+C:\After UserResgistration\CollegeStarterPack\CollegeStarterPack.Web\bin\System.Web.WebPages.Razor.xml
+C:\After UserResgistration\CollegeStarterPack\CollegeStarterPack.Web\bin\Antlr3.Runtime.pdb
+C:\After UserResgistration\CollegeStarterPack\CollegeStarterPack.Web\bin\Newtonsoft.Json.xml
+C:\After UserResgistration\CollegeStarterPack\CollegeStarterPack.Web\bin\Microsoft.AspNet.Identity.Core.xml
+C:\After UserResgistration\CollegeStarterPack\CollegeStarterPack.Web\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\After UserResgistration\CollegeStarterPack\CollegeStarterPack.Web\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\After UserResgistration\CollegeStarterPack\CollegeStarterPack.Web\bin\Microsoft.Owin.xml
+C:\After UserResgistration\CollegeStarterPack\CollegeStarterPack.Web\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\After UserResgistration\CollegeStarterPack\CollegeStarterPack.Web\bin\Microsoft.Owin.Security.xml
+C:\After UserResgistration\CollegeStarterPack\CollegeStarterPack.Web\bin\Microsoft.Owin.Security.Facebook.xml
+C:\After UserResgistration\CollegeStarterPack\CollegeStarterPack.Web\bin\Microsoft.Owin.Security.Cookies.xml
+C:\After UserResgistration\CollegeStarterPack\CollegeStarterPack.Web\bin\Microsoft.Owin.Security.OAuth.xml
+C:\After UserResgistration\CollegeStarterPack\CollegeStarterPack.Web\bin\Microsoft.Owin.Security.Google.xml
+C:\After UserResgistration\CollegeStarterPack\CollegeStarterPack.Web\bin\Microsoft.Owin.Security.Twitter.xml
+C:\After UserResgistration\CollegeStarterPack\CollegeStarterPack.Web\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\After UserResgistration\CollegeStarterPack\CollegeStarterPack.Web\obj\Debug\CollegeStarterPack.Web.csprojResolveAssemblyReference.cache
+C:\After UserResgistration\CollegeStarterPack\CollegeStarterPack.Web\obj\Debug\CollegeStarterPack.Web.dll
+C:\After UserResgistration\CollegeStarterPack\CollegeStarterPack.Web\obj\Debug\CollegeStarterPack.Web.pdb
+E:\Vipin Sir\Without UserRegistration\CollegeStarterPack\CollegeStarterPack.Web\bin\roslyn\csc.exe
+E:\Vipin Sir\Without UserRegistration\CollegeStarterPack\CollegeStarterPack.Web\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\Vipin Sir\Without UserRegistration\CollegeStarterPack\CollegeStarterPack.Web\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\Vipin Sir\Without UserRegistration\CollegeStarterPack\CollegeStarterPack.Web\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\Vipin Sir\Without UserRegistration\CollegeStarterPack\CollegeStarterPack.Web\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\Vipin Sir\Without UserRegistration\CollegeStarterPack\CollegeStarterPack.Web\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\Vipin Sir\Without UserRegistration\CollegeStarterPack\CollegeStarterPack.Web\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\Vipin Sir\Without UserRegistration\CollegeStarterPack\CollegeStarterPack.Web\bin\roslyn\System.Collections.Immutable.dll
+E:\Vipin Sir\Without UserRegistration\CollegeStarterPack\CollegeStarterPack.Web\bin\roslyn\System.Reflection.Metadata.dll
+E:\Vipin Sir\Without UserRegistration\CollegeStarterPack\CollegeStarterPack.Web\bin\roslyn\vbc.exe
+E:\Vipin Sir\Without UserRegistration\CollegeStarterPack\CollegeStarterPack.Web\bin\roslyn\VBCSCompiler.exe
+E:\Vipin Sir\Without UserRegistration\CollegeStarterPack\CollegeStarterPack.Web\bin\roslyn\VBCSCompiler.exe.config
+E:\Vipin Sir\Without UserRegistration\CollegeStarterPack\CollegeStarterPack.Web\bin\CollegeStarterPack.Web.dll.config
+E:\Vipin Sir\Without UserRegistration\CollegeStarterPack\CollegeStarterPack.Web\bin\CollegeStarterPack.Web.dll
+E:\Vipin Sir\Without UserRegistration\CollegeStarterPack\CollegeStarterPack.Web\bin\CollegeStarterPack.Web.pdb
+E:\Vipin Sir\Without UserRegistration\CollegeStarterPack\CollegeStarterPack.Web\bin\Antlr3.Runtime.dll
+E:\Vipin Sir\Without UserRegistration\CollegeStarterPack\CollegeStarterPack.Web\bin\CollegeStarterPack.Domain.dll
+E:\Vipin Sir\Without UserRegistration\CollegeStarterPack\CollegeStarterPack.Web\bin\EntityFramework.dll
+E:\Vipin Sir\Without UserRegistration\CollegeStarterPack\CollegeStarterPack.Web\bin\EntityFramework.SqlServer.dll
+E:\Vipin Sir\Without UserRegistration\CollegeStarterPack\CollegeStarterPack.Web\bin\Microsoft.AspNet.Identity.Core.dll
+E:\Vipin Sir\Without UserRegistration\CollegeStarterPack\CollegeStarterPack.Web\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+E:\Vipin Sir\Without UserRegistration\CollegeStarterPack\CollegeStarterPack.Web\bin\Microsoft.AspNet.Identity.Owin.dll
+E:\Vipin Sir\Without UserRegistration\CollegeStarterPack\CollegeStarterPack.Web\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\Vipin Sir\Without UserRegistration\CollegeStarterPack\CollegeStarterPack.Web\bin\Microsoft.Owin.dll
+E:\Vipin Sir\Without UserRegistration\CollegeStarterPack\CollegeStarterPack.Web\bin\Microsoft.Owin.Host.SystemWeb.dll
+E:\Vipin Sir\Without UserRegistration\CollegeStarterPack\CollegeStarterPack.Web\bin\Microsoft.Owin.Security.Cookies.dll
+E:\Vipin Sir\Without UserRegistration\CollegeStarterPack\CollegeStarterPack.Web\bin\Microsoft.Owin.Security.dll
+E:\Vipin Sir\Without UserRegistration\CollegeStarterPack\CollegeStarterPack.Web\bin\Microsoft.Owin.Security.Facebook.dll
+E:\Vipin Sir\Without UserRegistration\CollegeStarterPack\CollegeStarterPack.Web\bin\Microsoft.Owin.Security.Google.dll
+E:\Vipin Sir\Without UserRegistration\CollegeStarterPack\CollegeStarterPack.Web\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+E:\Vipin Sir\Without UserRegistration\CollegeStarterPack\CollegeStarterPack.Web\bin\Microsoft.Owin.Security.OAuth.dll
+E:\Vipin Sir\Without UserRegistration\CollegeStarterPack\CollegeStarterPack.Web\bin\Microsoft.Owin.Security.Twitter.dll
+E:\Vipin Sir\Without UserRegistration\CollegeStarterPack\CollegeStarterPack.Web\bin\Microsoft.Web.Infrastructure.dll
+E:\Vipin Sir\Without UserRegistration\CollegeStarterPack\CollegeStarterPack.Web\bin\Newtonsoft.Json.dll
+E:\Vipin Sir\Without UserRegistration\CollegeStarterPack\CollegeStarterPack.Web\bin\Ninject.dll
+E:\Vipin Sir\Without UserRegistration\CollegeStarterPack\CollegeStarterPack.Web\bin\Ninject.Web.Common.dll
+E:\Vipin Sir\Without UserRegistration\CollegeStarterPack\CollegeStarterPack.Web\bin\Ninject.Web.Mvc.dll
+E:\Vipin Sir\Without UserRegistration\CollegeStarterPack\CollegeStarterPack.Web\bin\Owin.dll
+E:\Vipin Sir\Without UserRegistration\CollegeStarterPack\CollegeStarterPack.Web\bin\System.Web.Helpers.dll
+E:\Vipin Sir\Without UserRegistration\CollegeStarterPack\CollegeStarterPack.Web\bin\System.Web.Mvc.dll
+E:\Vipin Sir\Without UserRegistration\CollegeStarterPack\CollegeStarterPack.Web\bin\System.Web.Optimization.dll
+E:\Vipin Sir\Without UserRegistration\CollegeStarterPack\CollegeStarterPack.Web\bin\System.Web.Razor.dll
+E:\Vipin Sir\Without UserRegistration\CollegeStarterPack\CollegeStarterPack.Web\bin\System.Web.WebPages.Deployment.dll
+E:\Vipin Sir\Without UserRegistration\CollegeStarterPack\CollegeStarterPack.Web\bin\System.Web.WebPages.dll
+E:\Vipin Sir\Without UserRegistration\CollegeStarterPack\CollegeStarterPack.Web\bin\System.Web.WebPages.Razor.dll
+E:\Vipin Sir\Without UserRegistration\CollegeStarterPack\CollegeStarterPack.Web\bin\WebActivatorEx.dll
+E:\Vipin Sir\Without UserRegistration\CollegeStarterPack\CollegeStarterPack.Web\bin\WebGrease.dll
+E:\Vipin Sir\Without UserRegistration\CollegeStarterPack\CollegeStarterPack.Web\bin\CollegeStarterPack.Domain.pdb
+E:\Vipin Sir\Without UserRegistration\CollegeStarterPack\CollegeStarterPack.Web\bin\EntityFramework.xml
+E:\Vipin Sir\Without UserRegistration\CollegeStarterPack\CollegeStarterPack.Web\bin\EntityFramework.SqlServer.xml
+E:\Vipin Sir\Without UserRegistration\CollegeStarterPack\CollegeStarterPack.Web\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\Vipin Sir\Without UserRegistration\CollegeStarterPack\CollegeStarterPack.Web\bin\Ninject.xml
+E:\Vipin Sir\Without UserRegistration\CollegeStarterPack\CollegeStarterPack.Web\bin\Ninject.Web.Common.xml
+E:\Vipin Sir\Without UserRegistration\CollegeStarterPack\CollegeStarterPack.Web\bin\Ninject.Web.Mvc.xml
+E:\Vipin Sir\Without UserRegistration\CollegeStarterPack\CollegeStarterPack.Web\bin\System.Web.Helpers.xml
+E:\Vipin Sir\Without UserRegistration\CollegeStarterPack\CollegeStarterPack.Web\bin\System.Web.Mvc.xml
+E:\Vipin Sir\Without UserRegistration\CollegeStarterPack\CollegeStarterPack.Web\bin\System.Web.Optimization.xml
+E:\Vipin Sir\Without UserRegistration\CollegeStarterPack\CollegeStarterPack.Web\bin\System.Web.Razor.xml
+E:\Vipin Sir\Without UserRegistration\CollegeStarterPack\CollegeStarterPack.Web\bin\System.Web.WebPages.xml
+E:\Vipin Sir\Without UserRegistration\CollegeStarterPack\CollegeStarterPack.Web\bin\System.Web.WebPages.Deployment.xml
+E:\Vipin Sir\Without UserRegistration\CollegeStarterPack\CollegeStarterPack.Web\bin\System.Web.WebPages.Razor.xml
+E:\Vipin Sir\Without UserRegistration\CollegeStarterPack\CollegeStarterPack.Web\bin\Antlr3.Runtime.pdb
+E:\Vipin Sir\Without UserRegistration\CollegeStarterPack\CollegeStarterPack.Web\bin\Newtonsoft.Json.xml
+E:\Vipin Sir\Without UserRegistration\CollegeStarterPack\CollegeStarterPack.Web\bin\Microsoft.AspNet.Identity.Core.xml
+E:\Vipin Sir\Without UserRegistration\CollegeStarterPack\CollegeStarterPack.Web\bin\Microsoft.AspNet.Identity.Owin.xml
+E:\Vipin Sir\Without UserRegistration\CollegeStarterPack\CollegeStarterPack.Web\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+E:\Vipin Sir\Without UserRegistration\CollegeStarterPack\CollegeStarterPack.Web\bin\Microsoft.Owin.xml
+E:\Vipin Sir\Without UserRegistration\CollegeStarterPack\CollegeStarterPack.Web\bin\Microsoft.Owin.Host.SystemWeb.xml
+E:\Vipin Sir\Without UserRegistration\CollegeStarterPack\CollegeStarterPack.Web\bin\Microsoft.Owin.Security.xml
+E:\Vipin Sir\Without UserRegistration\CollegeStarterPack\CollegeStarterPack.Web\bin\Microsoft.Owin.Security.Facebook.xml
+E:\Vipin Sir\Without UserRegistration\CollegeStarterPack\CollegeStarterPack.Web\bin\Microsoft.Owin.Security.Cookies.xml
+E:\Vipin Sir\Without UserRegistration\CollegeStarterPack\CollegeStarterPack.Web\bin\Microsoft.Owin.Security.OAuth.xml
+E:\Vipin Sir\Without UserRegistration\CollegeStarterPack\CollegeStarterPack.Web\bin\Microsoft.Owin.Security.Google.xml
+E:\Vipin Sir\Without UserRegistration\CollegeStarterPack\CollegeStarterPack.Web\bin\Microsoft.Owin.Security.Twitter.xml
+E:\Vipin Sir\Without UserRegistration\CollegeStarterPack\CollegeStarterPack.Web\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+E:\Vipin Sir\Without UserRegistration\CollegeStarterPack\CollegeStarterPack.Web\obj\Debug\CollegeStarterPack.Web.csprojResolveAssemblyReference.cache
+E:\Vipin Sir\Without UserRegistration\CollegeStarterPack\CollegeStarterPack.Web\obj\Debug\CollegeStarterPack.Web.dll
+E:\Vipin Sir\Without UserRegistration\CollegeStarterPack\CollegeStarterPack.Web\obj\Debug\CollegeStarterPack.Web.pdb

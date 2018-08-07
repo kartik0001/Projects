@@ -1,0 +1,97 @@
+﻿@using CollegeStarterPack.Web.Models
+@model LoginViewModel
+@{
+    ViewBag.Title = "Log In";
+  //  Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<meta charset="utf-8">
+<title>CollegeStarterPack</title>
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<meta name="description" content="">
+<!--[if ie]><meta content='IE=8' http-equiv='X-UA-Compatible'/><![endif]-->
+<!-- bootstrap -->
+
+<link href="~/Content/Template/bootstrap/css/bootstrap.min.css" rel="stylesheet" />
+
+<link href="~/Content/Template/bootstrap/css/bootstrap-responsive.min.css" rel="stylesheet" />
+
+
+<link href="~/Content/Template/themes/css/bootstrappage.css" rel="stylesheet" />
+
+<!-- global styles -->
+
+<link href="~/Content/Template/themes/css/flexslider.css" rel="stylesheet" />
+
+<link href="~/Content/Template/themes/css/main.css" rel="stylesheet" />
+
+<!-- scripts -->
+
+<script src="@Url.Content("~/Content/Template/")themes/js/jquery-1.7.2.min.js"></script>
+<script src="@Url.Content("~/Content/Template/")bootstrap/js/bootstrap.min.js"></script>
+<script src="@Url.Content("~/Content/Template/")themes/js/superfish.js"></script>
+<script src="@Url.Content("~/Content/Template/")themes/js/jquery.scrolltotop.js"></script>
+<!--[if lt IE 9]>
+    <script src="http://html5shim.googlecode.com/svn/trunk/html5.js"></script>
+    <script src="@Url.Content("~/Content/Template/")js/respond.min.js"></script>
+<![endif]-->
+
+<br/>
+
+<h2>@ViewBag.Title.</h2>
+
+
+<div class="row">
+    <div class="col-md-8">
+        <section id="loginForm">
+            @using (Html.BeginForm("Login", "Account", new { ReturnUrl = ViewBag.ReturnUrl }, FormMethod.Post, new { @class = "form-horizontal", role = "form" }))
+            {
+                @Html.AntiForgeryToken()
+                
+                <hr />
+                @Html.ValidationSummary(true, "", new { @class = "text-danger" })
+                <div class="form-group">
+                    @Html.LabelFor(m => m.Email, new { @class = "col-md-2 control-label" })
+                    <div class="col-md-10">
+                        @Html.TextBoxFor(m => m.Email, new { @class = "form-control" })
+                        @Html.ValidationMessageFor(m => m.Email, "", new { @class = "text-danger" })
+                    </div>
+                </div>
+                <div class="form-group">
+                    @Html.LabelFor(m => m.Password, new { @class = "col-md-2 control-label" })
+                    <div class="col-md-10">
+                        @Html.PasswordFor(m => m.Password, new { @class = "form-control" })
+                        @Html.ValidationMessageFor(m => m.Password, "", new { @class = "text-danger" })
+                    </div>
+                </div>
+                <div class="form-group">
+                    <div class="col-md-offset-2 col-md-10">
+                        <div class="checkbox">
+                            @Html.CheckBoxFor(m => m.RememberMe)
+                            @Html.LabelFor(m => m.RememberMe)
+                        </div>
+                    </div>
+                </div>
+                <div class="form-group">
+                    <div class="col-md-offset-2 col-md-10">
+                        <input type="submit" value="Log in" class="btn btn-default" />
+                    </div>
+                </div>
+                <p>
+                    @Html.ActionLink("Register as a new user", "Register")
+                </p>
+                @* Enable this once you have account confirmation enabled for password reset functionality
+                    <p>
+                        @Html.ActionLink("Forgot your password?", "ForgotPassword")
+                    </p>*@
+            }
+        </section>
+    </div>
+    <div class="col-md-4">
+       
+    </div>
+</div>
+
+@section Scripts {
+    @Scripts.Render("~/bundles/jqueryval")
+}
